@@ -1,0 +1,24 @@
+{
+    "configuracion":{
+        "test" : "false",
+        "tipoDeComprobante" : "I",
+        "documentPath" : "FacturasGeneradas",
+
+        "testApicfdi_url" : "https://comprobantes-fiscales.com:8443/EdifactMxApiRestCfdiBase40/EdifactMx/facturaCFDIJSON",
+        "testApicfdi_user" : "pruebas",
+        "testApicfdi_password" : "t3st2022",
+
+        "prodApicfdi_url" : "http://25.1.208.69:8080/EdifactMxApiRestSinergia/EdifactMx/facturaCFDIJSON",
+        "prodApicfdi_user" : "sinergia",
+        "prodApicfdi_password" : "S1n3rg1a00.",
+
+        "testEmisorRfc" : "IIA040805DZ4",
+        "testEmisorNombre" : "INDISTRIA ILUMINADORA DE ALMACENES",
+        "testEmisorRegimenFiscal" : "601",
+
+        "testReceptorRfc" : "DUT830629UQ3",
+        "testReceptorNombre" : "DESARROLLOS URBANOS TERRANOVA",
+        "testReceptorDomicilioFiscalReceptor" : "21000",
+        "testReceptorRegimenFiscalReceptor" : "601"
+    }
+}

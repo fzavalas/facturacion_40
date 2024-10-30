@@ -1,0 +1,85 @@
+
+.my-button {
+    padding: 10px 20px;
+    background-color: #2765FF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .my-button:hover {
+    background-color: #1c5bfa;
+  }
+  
+  .my-button:active {
+    background-color: #2765FF;
+  }
+
+
+
+body {
+    font-family: "Calibri";
+}
+
+.input-field {
+    position: relative;
+}
+
+.input-field input{
+    width: 300px;
+    height: 25px;
+    border-radius: 6px;
+    font-size: 18px;
+    padding: 0 15px;
+    border: 2px solid #1c5bfa;
+    background-color:  transparent;
+    outline: none;
+    color: #1c5bfa;
+
+}
+
+
+
+.input-field label {
+    font-size: 16px;
+    padding: 0 2px;
+    font-family: "Calibri";
+    color: #2765FF;
+    font-weight: bold;
+}
+  
+table {
+    border-collapse: collapse;
+    border: 1px solid #2765FF;
+    font-family: "Calibri";
+    text-align: left;
+}
+
+th, td {
+    padding: 10px;
+}
+
+th {
+    background-color: #2765FF;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+td {
+    text-align: center;
+    border-bottom: #2765FF;
+    color: #2765FF;
+    font-size: 16px;
+    text-align: left;
+}
+
+
+H1 {
+    color: #2765FF;
+    font-size:28px;
+    font-weight: bold;
+    width: auto;
+    background-color: rgb(233, 235, 240);
+
+}

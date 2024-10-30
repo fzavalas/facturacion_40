@@ -1,0 +1,9 @@
+{
+    "conexion":{
+        "server" : "25.3.100.93\\sqlsvr",
+        "user" : "sa",
+        "password" : "D1mens1on",
+        "database" : "VentasYCobranzaCAN",
+        "port" : "1433"
+    }
+}
